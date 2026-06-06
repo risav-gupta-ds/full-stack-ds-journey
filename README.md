@@ -1,8 +1,16 @@
+
 Full Stack Data Science Journey — Risav Gupta
 
 🎯 Goal: BFSI Data Scientist | ₹20-25 LPA | 2027
 📅 Started: June 2026 | Duration: 50 weeks
 🏢 Background:B.Tech CSE 2021
+=======
+# Full Stack Data Science Journey — Risav Gupta
+
+🎯 Goal: BFSI Data Scientist | ₹15–18 LPA | 2027
+📅 Started: June 2026 | Duration: 50 weeks
+🏢 Background: B.Tech CSE 2021
+760b004 (Week 0: Setup complete. Journey begins Monday 9 June 2026.)
 ☁️ Cloud: AWS (primary) · Azure (secondary)
 🏦 Domain: BFSI — Fraud Detection · Credit Risk · GenAI
 
@@ -18,5 +26,10 @@ Full Stack Data Science Journey — Risav Gupta
 ✅ Python 3.11 installed
 ✅ VS Code + Git configured
 ✅ GitHub repository live
+
 ✅ Notion tracker built
 ✅ Journey begins: Monday 9 June 2026
+=======
+✅ Notion tracker building
+✅ Journey begins: Monday 9 June 2026
+Week 0: Setup complete. Journey begins Monday 9 June 2026
