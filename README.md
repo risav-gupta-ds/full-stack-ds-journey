@@ -2,7 +2,7 @@
 
 🎯 Goal: BFSI Data Scientist | ₹15–18 LPA | 2027
 📅 Started: June 2026 | Duration: 50 weeks
-🏢 Background: B.Tech CSE 2021
+🏢 Background: TCS PMO Analyst | B.Tech CSE 2021
 ☁️ Cloud: AWS (primary) · Azure (secondary)
 🏦 Domain: BFSI — Fraud Detection · Credit Risk · GenAI
 
