@@ -1,22 +1,9 @@
-# Full Stack Data Science Journey — Risav Gupta
+"# Hi, I'm Risav Gupta 👋
 
-🎯 Goal: BFSI Data Scientist | ₹15–18 LPA | 2027
-📅 Started: June 2026 | Duration: 50 weeks
-🏢 Background: TCS PMO Analyst | B.Tech CSE 2021
-☁️ Cloud: AWS (primary) · Azure (secondary)
-🏦 Domain: BFSI — Fraud Detection · Credit Risk · GenAI
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-risav--gupta--ds--bfsi-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/risav-gupta-ds-bfsi)
+[![GitHub](https://img.shields.io/badge/GitHub-risav--gupta-181717?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
+[![Location](https://img.shields.io/badge/📍-Kolkata%2C%20India-green)](https://www.google.com/maps/place/Kolkata)
+[![Journey](https://img.shields.io/badge/🚀-50--Week%20DS%20Journey-blue)](https://github.com/YOUR_USERNAME)"
+<img width="631" height="201" alt="image" src="https://github.com/user-attachments/assets/7089b60f-5389-46a6-95ec-f9227b56658d" />
 
-## Phase Progress
-| Phase | Weeks | Status |
-|-------|-------|--------|
-| Phase 1: Foundations | 1–11 | 🔄 Starting Monday |
-| Phase 2: Architecture & Ethics | 12–24 | ⏳ Upcoming |
-| Phase 3: Big Data & ML | 25–37 | ⏳ Upcoming |
-| Phase 4: GenAI & MLOps | 38–50 | ⏳ Upcoming |
 
-## Week 0 — Setup Complete
-✅ Python 3.11 installed
-✅ VS Code + Git configured
-✅ GitHub repository live
-✅ Notion tracker building
-✅ Journey begins: Monday 9 June 2026
